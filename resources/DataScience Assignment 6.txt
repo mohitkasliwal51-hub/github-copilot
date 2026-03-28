@@ -1,0 +1,23 @@
+Loading and Cleaning Data:
+
+Prompt: # Load data from CSV file into a pandas DataFrame and clean the data
+
+Copilot might suggest code to read the CSV file using pandas.read_csv() and perform basic cleaning operations like dropping missing values.
+
+Data Exploration:
+
+Prompt: # Calculate basic statistics and display the correlation matrix
+
+Copilot might suggest using DataFrame.describe() for basic statistics and DataFrame.corr() for correlation.
+
+Data Visualization:
+
+Prompt: # Create pairplot for all numerical columns using seaborn
+
+Copilot might suggest using seaborn.pairplot() for creating a pairplot of the data.
+
+Generating Insights:
+
+Prompt: # Identify high value customers based on purchase amount
+
+Copilot might suggest filtering the DataFrame based on a condition, such as purchase amount being above a certain quantile.
